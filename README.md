@@ -1,4 +1,4 @@
-# blockstack-wallet
+# Smart-wallet-ui
 
 > 🚧 The project is still in beta, use it at your own risk 🚧
 

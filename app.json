@@ -1,10 +1,10 @@
 {
-  "name": "blockstack-wallet",
-  "displayName": "blockstack-wallet",
+  "name": "Smart-wallet-ui",
+  "displayName": "  ",
   "expo": {
-    "name": "blockstack-wallet",
-    "slug": "blockstack-wallet",
-    "platforms": ["ios", "android"],
+    "name": "Smart-wallet-ui",
+    "slug": "Smart-wallet-ui",
+    "platforms": ["ios", "android", "web"],
     "version": "0.5.0",
     "assetBundlePatterns": ["**/*"]
   }
